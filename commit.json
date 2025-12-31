@@ -1,6 +1,6 @@
 {
-  "type": "status",
+  "type": "feat",
   "scope": "production & build",
-  "message": "Development completed and app build completed. Links redirecting not implemented",
+  "message": "downgrade react to 18 for drei compatibility",
   "ticket": ""
 }
