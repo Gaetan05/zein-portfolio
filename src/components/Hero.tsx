@@ -16,7 +16,7 @@ const Hero: React.FC<HeroProps> = ({ typedText, scrollToSection }) => {
       
       <div className="hero-content animate-on-scroll">
         <div className="hero-greeting">
-          <span className="greeting-wave">👋</span>
+          {/* <span className="greeting-wave">👋</span> */}
           <span className="greeting-text">Hello, I'm</span>
         </div>
         
@@ -34,7 +34,7 @@ const Hero: React.FC<HeroProps> = ({ typedText, scrollToSection }) => {
         </div>
         
         <p className="hero-description">
-          🌟 A multi-talented creative professional who excels across diverse fields - 
+          🌟 A creative professional who excels across diverse fields - 
           from cutting-edge software development and stunning photography to captivating 
           voice artistry and elegant modeling. I bring passion, creativity, and excellence 
           to every project I touch.
