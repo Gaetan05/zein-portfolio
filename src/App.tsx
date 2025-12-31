@@ -154,12 +154,11 @@ function App() {
   // Enhanced typing effect for multi-professional roles
   useEffect(() => {
     const texts = [
-      '💻 Full-Stack Developer', 
-      '📸 Professional Photographer', 
-      '🎤 Voice Artist & Actor',
-      '👔 Professional Model',
+      '💻 Full-Stack Dev', 
+      '📸 Visual Artist', 
+      '🎤 Voice Artist',
+      '✨ Professional Model',
       '🎨 Creative Director',
-      '✨ Multi-Talented Professional'
     ]
     let textIndex = 0
     let charIndex = 0
