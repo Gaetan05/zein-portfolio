@@ -1,0 +1,6 @@
+{
+  "type": "status",
+  "scope": "prod & build",
+  "message": "Development completed and app build completed. Links redirecting not implemented",
+  "ticket": ""
+}
