@@ -1296,7 +1296,7 @@ body {
 }
 
 .sidebar.show ~ .mobile-nav-toggle .toggle-line:nth-child(3) {
-  transform: rotate(-45deg) translate(7px, -6px);
+  transform: rotate(-45deg) translate(4px, -4px);
 }
 
 /* ===== RESPONSIVE DESIGN ===== */
